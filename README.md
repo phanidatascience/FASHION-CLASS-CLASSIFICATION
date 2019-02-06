@@ -1,0 +1,2 @@
+# FASHION-CLASS-CLASSIFICATION
+Fashion MNIST data set using CNN
